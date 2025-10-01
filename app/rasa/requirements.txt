@@ -1,4 +1,0 @@
-python-dotenv
-rasa-sdk
-requests
-pyyaml

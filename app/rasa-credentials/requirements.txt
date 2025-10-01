@@ -1,8 +1,0 @@
-python-dotenv
-rasa-sdk
-requests
-pyyaml
-uvicorn[standard]
-fastapi[all]
-httpx
-asyncio
